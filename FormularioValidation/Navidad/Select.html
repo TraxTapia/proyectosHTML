@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script
+      src="https://code.jquery.com/jquery-3.6.1.min.js"
+      integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ="
+      crossorigin="anonymous"
+    ></script>
+    <script src="Index.js"></script>
+  </head>
+  <body>
+    <div>
+      <form name="myform" id="myForm">
+        <select name="optone" id="stateSel" size="1">
+          <option value="" selected="selected">Select state</option>
+        </select>
+        <br />
+        <br />
+        <select name="opttwo" id="countySel" size="1">
+          <option value="" selected="selected">
+            Please select state first
+          </option>
+        </select>
+        <br />
+        <br />
+        <select name="optthree" id="citySel" size="1">
+          <option value="" selected="selected">
+            Please select county first
+          </option>
+        </select>
+        <br />
+        <br />
+        <input type="button" onclick="filtrar()" value="FILTRAR" />
+      </form>
+    </div>
+    <div id="California">
+      <h1>CALIFORNIA</h1>
+      <p>
+        California es uno de los cincuenta estados que, junto con Washington D.
+        C., forman los Estados Unidos de América. Su capital es Sacramento y su
+        ciudad más poblada, Los Ángeles.
+      </p>
+    </div>
+    <div id="Oregon">
+      <h1>OREGON</h1>
+      <p>
+        Oregón es uno de los cincuenta estados que, junto con Washington D. C.,
+        forman los Estados Unidos de América. Su capital es Salem y su ciudad
+        más poblada ...
+      </p>
+    </div>
+  </body>
+</html>

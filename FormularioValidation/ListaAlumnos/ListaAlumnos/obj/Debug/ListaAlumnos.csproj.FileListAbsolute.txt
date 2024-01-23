@@ -1,0 +1,10 @@
+C:\Users\ivan.tapia\source\Ivan Tapia\Poyectos\ListaAlumnos\ListaAlumnos\bin\Debug\ListaAlumnos.exe.config
+C:\Users\ivan.tapia\source\Ivan Tapia\Poyectos\ListaAlumnos\ListaAlumnos\bin\Debug\ListaAlumnos.exe
+C:\Users\ivan.tapia\source\Ivan Tapia\Poyectos\ListaAlumnos\ListaAlumnos\bin\Debug\ListaAlumnos.pdb
+C:\Users\ivan.tapia\source\Ivan Tapia\Poyectos\ListaAlumnos\ListaAlumnos\obj\Debug\ListaAlumnos.csproj.AssemblyReference.cache
+C:\Users\ivan.tapia\source\Ivan Tapia\Poyectos\ListaAlumnos\ListaAlumnos\obj\Debug\ListaAlumnos.Form1.resources
+C:\Users\ivan.tapia\source\Ivan Tapia\Poyectos\ListaAlumnos\ListaAlumnos\obj\Debug\ListaAlumnos.Properties.Resources.resources
+C:\Users\ivan.tapia\source\Ivan Tapia\Poyectos\ListaAlumnos\ListaAlumnos\obj\Debug\ListaAlumnos.csproj.GenerateResource.cache
+C:\Users\ivan.tapia\source\Ivan Tapia\Poyectos\ListaAlumnos\ListaAlumnos\obj\Debug\ListaAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\ivan.tapia\source\Ivan Tapia\Poyectos\ListaAlumnos\ListaAlumnos\obj\Debug\ListaAlumnos.exe
+C:\Users\ivan.tapia\source\Ivan Tapia\Poyectos\ListaAlumnos\ListaAlumnos\obj\Debug\ListaAlumnos.pdb
